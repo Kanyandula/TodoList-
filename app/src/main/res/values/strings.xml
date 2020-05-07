@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoListSQLite</string>
+    <string name="some_note_title">Some Note Title</string>
+    <string name="go_back">Back</string>
+    <string name="check">Check</string>
+    <string name="title_of_note">title of note</string>
+    <string name="title_note">title of note</string>
+    <string name="notes">Title of Notes</string>
+</resources>
